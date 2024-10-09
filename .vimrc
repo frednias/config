@@ -13,4 +13,7 @@ map <F10> :tabe .<ENTER>
 map <TAB> gt
 map <M+TAB> gT
 
+set shiftwidth=4 smarttab
+set expandtab
+set tabstop=4 softtabstop=0
 
